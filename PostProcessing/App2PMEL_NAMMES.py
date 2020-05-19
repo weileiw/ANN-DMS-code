@@ -1,3 +1,6 @@
+'''
+Apply ANN model to NAAMES predictor fields to make predictions.
+'''
 import os
 import re
 import sys

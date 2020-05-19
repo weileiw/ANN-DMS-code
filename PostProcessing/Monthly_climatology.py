@@ -1,3 +1,7 @@
+'''
+Apply ANN models to predictor fields and get monthly climatology.
+'''
+
 import re
 import os
 import sys

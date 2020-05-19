@@ -1,3 +1,4 @@
+% make tracer-tracer plots.
 addpath('~/myfun')
 load ./output_data/DMS_mod_obs.mat
 % first column is index
