@@ -23,4 +23,7 @@ linear_multilear contains functions to test linear and multilinear models.
 
 PostProcessing contains functions to post-process the model results.
 
+.csv and .mat data used to train the network can be found in the following
+repo.: https://zenodo.org/record/3833233#.XsM4cBP0nV4
+
 author: Wei-Lei Wang on May 18, 2020.
