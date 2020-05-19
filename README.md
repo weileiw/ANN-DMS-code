@@ -21,7 +21,7 @@ CrossVali directory contains functions to test n-fold cross validation  models.
 
 linear_multilear contains functions to test linear and multilinear models.
 credits go to Martí Galí at Earth Sciences Department, Barcelona Supercomputing Center,
-08034 Barcelona, Spain for functions dms_sd02.m dms_vs07.m
+08034 Barcelona, Spain for functions dms_sd02.m, dms_vs07.m, and dms_sat.m
 
 PostProcessing contains functions to post-process the model results.
 
